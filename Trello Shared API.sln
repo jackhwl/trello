@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trello Shared API", "Trello Shared API\Trello Shared API.csproj", "{86D3E75B-7872-44F2-ACFA-39DCD04A1738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trello Shared APIWeb", "Trello Shared APIWeb\Trello Shared APIWeb.csproj", "{4BBD2863-F97D-4AF1-BC59-BB39E8703107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86D3E75B-7872-44F2-ACFA-39DCD04A1738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D3E75B-7872-44F2-ACFA-39DCD04A1738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D3E75B-7872-44F2-ACFA-39DCD04A1738}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{86D3E75B-7872-44F2-ACFA-39DCD04A1738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D3E75B-7872-44F2-ACFA-39DCD04A1738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D3E75B-7872-44F2-ACFA-39DCD04A1738}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4BBD2863-F97D-4AF1-BC59-BB39E8703107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBD2863-F97D-4AF1-BC59-BB39E8703107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBD2863-F97D-4AF1-BC59-BB39E8703107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBD2863-F97D-4AF1-BC59-BB39E8703107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
